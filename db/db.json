@@ -1,52 +1,59 @@
 {
-  "toys": [
-    {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    }
+  "cars": [
+      {
+          "id": 1,
+          "image": "https://importsbykairo.com/assets/images/cars/30DB5D9A-2A1A-484E-ACD8-0EB70B32FD9E.jpeg",
+          "make": "Toyota",
+          "model": "Harrier",
+          "year": 2015,
+          "engine": "2,000cc 4 cylinder petrol",
+          "mileage": "36,000 kms",
+          "location": "Nairobi",
+          "price": "Ksh 3,000,000"
+      },
+      {
+          "id": 2,
+          "image": "https://importsbykairo.com/assets/images/cars/A259F115-A51E-46AC-BA12-ADB6915E02B8.jpeg",
+          "make": "Subaru",
+          "model": "Outback",
+          "year": 2015,
+          "engine": "2,500cc boxer-4 petrol",
+          "mileage": "65,000 kms",
+          "location": "Mombasa",
+          "price": "Ksh 3,500,000"
+      },
+      {
+          "id": 3,
+          "image": "https://carsoko.net/static/Uploads/WhatsApp_Image_2022-05-23_at_12.48.43_PM_1.jpeg",
+          "make": "Land Rover",
+          "model": "Discovery 4",
+          "year": 2015,
+          "engine": "3,000cc SDV6",
+          "mileage": "27,000 kms",
+          "location": "United Kingdom",
+          "price": "Ksh 6,200,000"
+      },
+      {
+          "id": 4,
+          "image": "https://importsbykairo.com/assets/images/cars/EC684103-DA1A-4420-8263-34D15D363A5C.jpeg",
+          "make": "Range Rover",
+          "model": "Vogue",
+          "year": 2015,
+          "engine": "4,400cc SDV8",
+          "mileage": "35,000 kms",
+          "location": "Nairobi",
+          "price": "Ksh 11,500,000"
+      },
+      {
+          "id": 5,
+          "image": "https://carsoko.net/static/Uploads/WhatsApp_Image_2022-06-28_at_11.41.21_AM.jpeg",
+          "make": "Toyota",
+          "model": "Land Cruiser Prado",
+          "year": 2019,
+          "engine": "2,800cc 4 cylinder turbodiesel",
+          "mileage": "19,000 kms",
+          "location": "Nairobi",
+          "price": "Ksh 9,000,000"
+      }
   ]
 }

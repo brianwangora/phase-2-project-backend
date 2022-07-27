@@ -6,7 +6,7 @@
           "make": "Toyota",
           "model": "Harrier",
           "year": 2015,
-          "engine": "2,000cc 4-cylinder Petrol",
+          "engine": "2,000cc Petrol 4-cylinder",
           "mileage": "36,000 kms",
           "location": "Nairobi",
           "price": "Ksh 3,000,000"
@@ -17,7 +17,7 @@
           "make": "Subaru",
           "model": "Outback",
           "year": 2015,
-          "engine": "2,500cc boxer-4 Petrol",
+          "engine": "2,500cc 4-cylinder Petrol Boxer",
           "mileage": "65,000 kms",
           "location": "Mombasa",
           "price": "Ksh 3,500,000"
@@ -50,7 +50,7 @@
           "make": "Toyota",
           "model": "Land Cruiser Prado",
           "year": 2019,
-          "engine": "2,800cc 4-cylinder Turbocharged Diesel",
+          "engine": "2,800cc Turbocharged 4-cylinder Diesel",
           "mileage": "19,000 kms",
           "location": "Nairobi",
           "price": "Ksh 9,000,000"
@@ -61,7 +61,7 @@
         "make": "Mercedes-Benz",
         "model": "AMG GLE 63s",
         "year": 2019,
-        "engine": "4,000cc Twin-turbocharged V8 Petrol",
+        "engine": "4,000cc Twin-turbocharged Petrol V8",
         "mileage": "9,000 kms",
         "location": "United Kingdom",
         "price": "Ksh 12,000,000"
@@ -72,7 +72,7 @@
         "make": "Mercedes-Benz",
         "model": "E350",
         "year": 2015,
-        "engine": "3,500cc Turbo-diesel V6 ",
+        "engine": "3,500cc Turbocharged Diesel V6 ",
         "mileage": "65,000 kms",
         "location": "Mombasa",
         "price": "Ksh 5,000,000"
@@ -83,7 +83,7 @@
         "make": "Land Rover",
         "model": "Range Rover Sport SVR",
         "year": 2015,
-        "engine": "5,000cc Supercharged V8 Petrol",
+        "engine": "5,000cc Supercharged Petrol V8",
         "mileage": "29,000 kms",
         "location": "United Kingdom",
         "price": "Ksh 16,000,000"
@@ -116,7 +116,7 @@
         "make": "BMW",
         "model": "528i M-sport",
         "year": 2015,
-        "engine": "2,000cc 4-cylinder Turbocharged Petrol (N20)",
+        "engine": "2,000cc Turbocharged 4-cylinder Petrol (N20)",
         "mileage": "59,000 kms",
         "location": "Nairobi",
         "price": "Ksh 3,300,000"
@@ -127,7 +127,7 @@
         "make": "Ford",
         "model": "Ranger Raptor",
         "year": 2018,
-        "engine": "2,000cc 4-cylinder Twin-Turbocharged Diesel",
+        "engine": "2,000cc Twin-Turbocharged 4-cylinder Diesel",
         "mileage": "9,000 kms",
         "location": "Nairobi",
         "price": "Ksh 8,500,000"

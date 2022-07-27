@@ -50,10 +50,65 @@
           "make": "Toyota",
           "model": "Land Cruiser Prado",
           "year": 2019,
-          "engine": "2,800cc 4 cylinder turbodiesel",
+          "engine": "2,800cc 4 cylinder turbo-diesel",
           "mileage": "19,000 kms",
           "location": "Nairobi",
           "price": "Ksh 9,000,000"
+      },
+      {
+        "id": 6,
+        "image": "https://s1.cdn.autoevolution.com/images/news/mercedes-gle-coupe-makes-european-debut-in-geneva-pricing-announced-video-93094_1.jpg",
+        "make": "Mercedes-Benz",
+        "model": "AMG GLE 63s",
+        "year": 2019,
+        "engine": "4,000cc Twin-turbocharged V8",
+        "mileage": "9,000 kms",
+        "location": "United Kingdom",
+        "price": "Ksh 12,000,000"
+      },
+      {
+        "id": 7,
+        "image": "https://importsbykairo.com/assets/images/cars/5767CE2C-4C76-45CE-8CFA-C92D9C15002D.jpeg",
+        "make": "Mercedes-Benz",
+        "model": "E350",
+        "year": 2015,
+        "engine": "3,500cc Turbo-diesel V6 ",
+        "mileage": "65,000 kms",
+        "location": "Mombasa",
+        "price": "Ksh 5,000,000"
+      },
+      {
+        "id": 8,
+        "image": "https://importsbykairo.com/assets/images/cars/DCE42CA5-F8FB-42B3-B6B4-CB0AF0C74D83.jpeg",
+        "make": "Land Rover",
+        "model": "Range Rover Sport SVR",
+        "year": 2015,
+        "engine": "5,000cc Supercharged V8",
+        "mileage": "29,000 kms",
+        "location": "United Kingdom",
+        "price": "Ksh 16,000,000"
+      },
+      {
+        "id": 9,
+        "image": "",
+        "make": "Toyota",
+        "model": "Land Cruiser 200 Series",
+        "year": 2019,
+        "engine": "4,500cc Twin-Turbocharged Diesel V8",
+        "mileage": "59,000 kms",
+        "location": "Australia",
+        "price": "Ksh 16,000,000"
+      },
+      {
+        "id": 10,
+        "image": "https://importsbykairo.com/assets/images/cars/5D833971-8E47-45E6-9BAD-9B6DFF4DC1BF.jpeg",
+        "make": "Audi",
+        "model": "Q5",
+        "year": 2015,
+        "engine": "2,OOOcc Turbocharged TFSI",
+        "mileage": "9,000 kms",
+        "location": "Japan",
+        "price": "Ksh 3,990,000"
       }
   ]
 }

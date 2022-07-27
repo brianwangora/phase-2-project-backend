@@ -6,7 +6,7 @@
           "make": "Toyota",
           "model": "Harrier",
           "year": 2015,
-          "engine": "2,000cc 4 cylinder petrol",
+          "engine": "2,000cc 4-cylinder Petrol",
           "mileage": "36,000 kms",
           "location": "Nairobi",
           "price": "Ksh 3,000,000"
@@ -17,7 +17,7 @@
           "make": "Subaru",
           "model": "Outback",
           "year": 2015,
-          "engine": "2,500cc boxer-4 petrol",
+          "engine": "2,500cc boxer-4 Petrol",
           "mileage": "65,000 kms",
           "location": "Mombasa",
           "price": "Ksh 3,500,000"
@@ -50,7 +50,7 @@
           "make": "Toyota",
           "model": "Land Cruiser Prado",
           "year": 2019,
-          "engine": "2,800cc 4 cylinder turbo-diesel",
+          "engine": "2,800cc 4-cylinder Turbocharged Diesel",
           "mileage": "19,000 kms",
           "location": "Nairobi",
           "price": "Ksh 9,000,000"
@@ -61,7 +61,7 @@
         "make": "Mercedes-Benz",
         "model": "AMG GLE 63s",
         "year": 2019,
-        "engine": "4,000cc Twin-turbocharged V8",
+        "engine": "4,000cc Twin-turbocharged V8 Petrol",
         "mileage": "9,000 kms",
         "location": "United Kingdom",
         "price": "Ksh 12,000,000"
@@ -83,7 +83,7 @@
         "make": "Land Rover",
         "model": "Range Rover Sport SVR",
         "year": 2015,
-        "engine": "5,000cc Supercharged V8",
+        "engine": "5,000cc Supercharged V8 Petrol",
         "mileage": "29,000 kms",
         "location": "United Kingdom",
         "price": "Ksh 16,000,000"
@@ -109,6 +109,28 @@
         "mileage": "9,000 kms",
         "location": "Japan",
         "price": "Ksh 3,990,000"
+      },
+      {
+        "id": 11,
+        "image": "https://importsbykairo.com/assets/images/cars/51429ED3-4D1A-487F-9705-3CDBA1A6870E.jpeg",
+        "make": "BMW",
+        "model": "528i M-sport",
+        "year": 2015,
+        "engine": "2,000cc 4-cylinder Turbocharged Petrol (N20)",
+        "mileage": "59,000 kms",
+        "location": "Nairobi",
+        "price": "Ksh 3,300,000"
+      },
+      {
+        "id": 12,
+        "image": "https://carsoko.net/static/Uploads/WhatsApp_Image_2022-06-24_at_10.21.11_AM.jpeg",
+        "make": "Ford",
+        "model": "Ranger Raptor",
+        "year": 2018,
+        "engine": "2,000cc 4-cylinder Twin-Turbocharged Diesel",
+        "mileage": "9,000 kms",
+        "location": "Nairobi",
+        "price": "Ksh 8,500,000"
       }
   ]
 }
